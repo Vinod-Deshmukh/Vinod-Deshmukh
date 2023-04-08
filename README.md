@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinod-Deshmukh
 - 👀 I’m interested in working in the IT Industry.
-- 🌱 I’m currently learning JavaScript and React.
+- 🌱 I’m currently learning JavaScript and ReactJs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
